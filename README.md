@@ -24,7 +24,7 @@ The following are the most common types of email campaigns:
 
 - **Promotional emails** are sent to inform subscribers of new or existing products or services. Promotional emails usually fall into the consideration and loyalty buckets of the marketing funnel because they encourage subscribers to take some kind of action.   
 
-Retention emails are sent to a current customer with the intent of keeping them as a customer. This type of campaign fits into the loyalty portion of the funnel.
+- **Retention emails** are sent to a current customer with the intent of keeping them as a customer. This type of campaign fits into the loyalty portion of the funnel.
 
 
 
