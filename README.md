@@ -3,10 +3,12 @@
 As a digital marketer, you will come across dozens of types of email campaigns that achieve different goals for your company. The way you define and name them may differ from organization to organization. However, this reading will give you an introduction to the main types of email campaigns and what they accomplish. In later materials, you will go more in-depth about each type of email.
 
 
+
 ### Real-life applications
 As you are guided through the various types of email campaigns, think about emails you’ve received recently or in the past. Consider what the sender was trying to accomplish in emailing you. Did it work? Why or why not? 
 
 Note: A large portion of email marketing is testing out different tactics to learn what works and what doesn’t. You might use all or just a few of the email types below, depending on what is most effective for your audience and marketing goals. 
+
 
 
 ### Types of email campaigns
@@ -21,6 +23,7 @@ Newsletters are sent to subscribers regularly. They contain news and information
 Promotional emails are sent to inform subscribers of new or existing products or services. Promotional emails usually fall into the consideration and loyalty buckets of the marketing funnel because they encourage subscribers to take some kind of action.   
 
 Retention emails are sent to a current customer with the intent of keeping them as a customer. This type of campaign fits into the loyalty portion of the funnel.
+
 
 
 ### Key takeaways
